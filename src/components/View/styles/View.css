@@ -1,0 +1,17 @@
+.view {
+  position: relative;
+}
+
+.view__image {
+  cursor: pointer;
+  height: 400px;
+  width: 250px;
+  background-color: white;
+}
+
+.view__timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
